@@ -2,7 +2,7 @@
 layout: post
 title:  ""
 date:   2019-11-18  
-categories: jekyll update
+categories: 
 ---
 
 大扎好
