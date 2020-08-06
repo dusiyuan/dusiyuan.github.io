@@ -1,8 +1,11 @@
 ---
 layout: page
-title: About
+title: 关于
 permalink: /about/
 ---
+
+
+这是dusiyuan在github的个人主页
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
